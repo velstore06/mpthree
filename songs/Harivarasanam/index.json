@@ -1,8 +1,44 @@
 [
 {
-"sname" : "Godhavari",
+"sname" : "Harivarasanam Ver1",
 "stitle" : "Telugu",
-"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Godhavari.mp3",
-"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/1.jpg"
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver01.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/1.jpg",
+"lyrics" : ""
+},
+{
+"sname" : "Harivarasanam Ver2",
+"stitle" : "Telugu",
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver02.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/2.jpg",
+"lyrics" : ""
+},
+{
+"sname" : "Harivarasanam Ver3",
+"stitle" : "Telugu",
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver03.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/3.jpg",
+"lyrics" : ""
+},
+{
+"sname" : "Harivarasanam Ver4",
+"stitle" : "Telugu",
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver04.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/4.jpg",
+"lyrics" : ""
+},
+{
+"sname" : "Harivarasanam Ver5",
+"stitle" : "Telugu",
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver05.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/5.jpg",
+"lyrics" : ""
+},
+{
+"sname" : "Harivarasanam Ver6",
+"stitle" : "Telugu",
+"slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver06.mp3",
+"simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/6.jpg",
+"lyrics" : ""
 }
 ]
