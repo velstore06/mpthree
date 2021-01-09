@@ -1,6 +1,7 @@
 [
 {
 "sname" : "Harivarasanam Ver1",
+"lang" : "Telugu",
 "stitle" : "Telugu",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver01.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/1.jpg",
@@ -72,6 +73,7 @@
 },
 {
 "sname" : "Harivarasanam Ver2",
+"lang" : "Tamil",
 "stitle" : "Tamil",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver02.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/2.jpg",
@@ -123,6 +125,7 @@
 },
 {
 "sname" : "Harivarasanam Ver3",
+"lang" : "Hindi",
 "stitle" : "Hindi",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver03.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/3.jpg",
@@ -175,6 +178,7 @@
 },
 {
 "sname" : "Harivarasanam Ver4",
+"lang" : "Kannada",
 "stitle" : "Kannada",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver04.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/4.jpg",
@@ -246,6 +250,7 @@
 },
 {
 "sname" : "Harivarasanam Ver5",
+"lang" : "Malayalam",
 "stitle" : "Malayalam",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver05.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/5.jpg",
@@ -298,6 +303,7 @@
 },
 {
 "sname" : "Harivarasanam Ver6",
+"lang" : "English",
 "stitle" : "English",
 "slink" : "https://vel6.velayudhan.me/songs/Harivarasanam/store/Harivarasanam Ver06.mp3",
 "simage" : "https://vel6.velayudhan.me/songs/Harivarasanam/img/6.jpg",
