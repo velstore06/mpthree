@@ -1,7 +1,8 @@
 [
 {
 "sname" : "Hanuman Chalisa 8D",
-"stitle" : "Hindi",
+"lang" : "Hindi",
+"stitle" : "Shankar Mahadevan",
 "slink" : "https://vel1.velayudhan.me/songs/HanumanSongs/store/Hanuman Chalisa 8D.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/HanumanSongs/img/2.jpg",
 "lyrics" : "
@@ -142,7 +143,8 @@
 },
 {
 "sname" : "Hanuman Chalisa FX",
-"stitle" : "Telugu",
+"lang" : "Telugu",
+"stitle" : "Shankar Mahadevan",
 "slink" : "https://vel1.velayudhan.me/songs/HanumanSongs/store/Hanuman Chalisa FX.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/HanumanSongs/img/3.jpg",
 "lyrics" : "
@@ -290,7 +292,8 @@
 },
 {
 "sname" : "Hanuman Chalisa",
-"stitle" : "Tamil",
+"lang" : "Tamil",
+"stitle" : "Normal Track",
 "slink" : "https://vel1.velayudhan.me/songs/HanumanSongs/store/Hanuman Chalisa.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/HanumanSongs/img/4.jpg",
 "lyrics" : "
@@ -438,7 +441,8 @@
 },
 {
 "sname" : "Hanuman chalisa Fast",
-  "stitle" : "English",
+  "lang" : "English",
+  "stitle" : "SP Balasubramanyam",
 "slink" : "https://vel1.velayudhan.me/songs/HanumanSongs/store/Hanuman chalisa Fast.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/HanumanSongs/img/5.jpg",
 "lyrics" : "
@@ -585,7 +589,7 @@ raama lakhana seetaa sahita - hRRidaya basahu surabhoop ‖
 "
 },
 {
-"stitle" : "Kannada",
+"lang" : "Kannada",
 "lyrics" : "
 ದೋಹಾ
 
@@ -730,7 +734,7 @@ raama lakhana seetaa sahita - hRRidaya basahu surabhoop ‖
 "
 },
 {
-"stitle" : "Malayalam",
+"lang" : "Malayalam",
 "lyrics" : "
 ദോഹാ
 
@@ -875,7 +879,7 @@ raama lakhana seetaa sahita - hRRidaya basahu surabhoop ‖
 "
 },
 {
-"stitle" : "Gujarati",
+"lang" : "Gujarati",
 "lyrics" : "
 દોહા
 
@@ -1020,7 +1024,7 @@ raama lakhana seetaa sahita - hRRidaya basahu surabhoop ‖
 "
 },
 {
-"stitle" : "Oriya",
+"lang" : "Oriya",
 "lyrics" : "
 ଦୋହା
 
@@ -1165,7 +1169,7 @@ raama lakhana seetaa sahita - hRRidaya basahu surabhoop ‖
 "
 },
 {
-"stitle" : "Bengali",
+"lang" : "Bengali",
 "lyrics" : "
 দোহা
 
